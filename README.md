@@ -1,1 +1,2 @@
 # RPaper
+Average pooling 
